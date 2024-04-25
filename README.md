@@ -1,2 +1,3 @@
 Welcome to our project!
-This is the dev branch 
+This is the production branch
+We connected our local branch to the remote repo
